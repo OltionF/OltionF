@@ -7,13 +7,14 @@ I'm a backend developer specializing in building robust **API services** and **m
 ---
 
 ### 🛠️ Tech Stack
-![tps://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white
-![Play Framework](https://img.shields.io/badge/Play_Framework-64DD17?style=for-the-badge&logo=playr=white
-![Bruno](https://img.shields.io/badge/Bruno-FF6F00?style=for-the-badge)
-ps://img.shields.io/badge/Git-F05032?style=-badge&logo=git&logoColor=white
-![Gatling](https://img.shields.io/badge/G22?style=for-the-badge
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColorongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logogoColor=white
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkinswhite
+
+https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white
+https://img.shields.io/badge/Play_Framework-64DD17?style=for-the-badge&logo=playframework&logoColor=white
+https://img.shields.io/badge/Bruno-FF6F00?style=for-the-badge
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white//img.shields.io/badge/Gatling-FF5722?style=for-the-badge&logo=gatling&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
 
 ---
 
@@ -32,12 +33,19 @@ ps://img.shields.io/badge/Git-F05032?style=-badge&logo=git&logoColor=white
 
 ### 🌆 My GitHub Skyline
 Check out my 3D contribution graph:  
-[GitHub Skyline](https://skyline.github.com/oltionfazliu)
+[https://skyline.github.com/ltionfazliu
 
- Stats
-![Oltion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oltionfazliu&show_icons=true&theme=radical)
+---
 
-s
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oltionfazliu&theme📫 Let's Connect
+### 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=oltionfazliu&show_icons=true&theme=radical
+
+---
+
+### 🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=oltionfazliu&theme=radical
+
+---
+
+### 📫 Let's Connect
 - 📧 Email: **oltion_f2000@hotmail.com**
-``
