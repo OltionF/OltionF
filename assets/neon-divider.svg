@@ -1,0 +1,20 @@
+<!-- assets/neon-divider.svg -->
+<svg width="100%" height="12" viewBox="0 0 1200 12" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2ACD"/>
+      <stop offset="50%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#F9F871"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="20" y1="6" x2="1180" y2="6" stroke="url(#g)" stroke-width="4" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" from="0, 2400" to="1200, 1200" dur="5s" repeatCount="indefinite" />
+  </line>
+</svg>
