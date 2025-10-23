@@ -27,11 +27,5 @@ I'm a backend developer specializing in building robust **API services** and **m
 
 ---
 
-### 🌆 My GitHub Skyline
-Check out my 3D contribution graph:
-./OltionF_2025_skyline.3mf
-
----
-
 ### 📫 Let's Connect
 - 📧 Email: oltion_f2000@hotmail.com
