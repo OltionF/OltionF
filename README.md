@@ -49,6 +49,12 @@ I'm a backend developer specializing in building robust API services and microse
 <!-- Third-party image; may be rate-limited. Consider self-hosting if flaky. -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OltionF&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=7200" alt="Oltion's GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streaks
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=OltionF&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
