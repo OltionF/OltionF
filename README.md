@@ -14,9 +14,7 @@
 
 I'm a backend developer specializing in building robust API services and microservices. I work primarily with Scala and the Play Framework, and I enjoy crafting scalable, maintainable systems that solve real-world problems.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OltionF/OltionF/main/assets/neon-divider.svg?v=1" alt="Neon Divider" width="80%" />
-</p>
+---
 
 ### 🛠️ Tech Stack
 
@@ -37,38 +35,48 @@ I'm a backend developer specializing in building robust API services and microse
   <img src="https://img.shields.io/badge/Bruno-%23F9F871?style=for-the-badge" alt="Bruno"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OltionF/OltionF/main/assets/neon-divider.svg?v=1" alt="Neon Divider" width="80%" />
-</p>
-
-### 📈 GitHub Stats
-
-<!-- These are third-party image generators. They can be temporarily down or rate-limited. -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OltionF&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=OltionF&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OltionF&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OltionF&theme=matrix&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OltionF/OltionF/main/assets/neon-divider.svg?v=1" alt="Neon Divider" width="80%" />
-</p>
-
-### 🎧 Personal Interests
-- 🎛️ DJing – I love mixing tracks and exploring new sounds.
-- 🏀 Basketball – Whether it's playing or watching, I'm always up for a game.
+---
 
 ### 📌 What I’m Working On
 - Building backend services using Play 3.0
 - Performance testing with Gatling
 - CI/CD automation with Jenkins
 
-### 📫 Uplink Established // Let's Connect
+---
+
+### 📊 GitHub Stats
+
+<!-- Third-party image; may be rate-limited. Consider self-hosting if flaky. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OltionF&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="Oltion's GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streaks
+
+<!-- These are third-party image generators. They can be temporarily down or rate-limited. -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OltionF&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🗺️ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OltionF&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OltionF&theme=radical&no-frame=true&no-bg=true" alt="Oltion's GitHub Trophies" />
+</p>
+
+---
+
+### Let's Connect
 - 📧 Email: oltion_f2000@hotmail.com
