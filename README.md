@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Optional: replace with header.jpg if you prefer a static image -->
-  <img src="https://cdn2.steamgriddb.com/hero_thumb/fb87582825f9d28a8d42c5e5e5e8b23d.jpg" alt="Cyberpunk Neon Banner" width="100%" />
+  <img src="https://cdn2.steamgriddb.com/hero_thumb/ce78d1da254c0843eb23951ae077ff5f.jpg" alt="Cyberpunk Neon Banner" width="100%" />
 </p>
 
 <p align="center">
