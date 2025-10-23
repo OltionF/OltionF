@@ -7,10 +7,15 @@ I'm a backend developer specializing in building robust **API services** and **m
 ---
 
 ### 🛠️ Tech Stack
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logote
-![Play Framework](https://img.shields.io/badge/Play_Framework-64DD17?style=for-the-badge&logo=playframework&logoColortps://img.shields.io/badge/Bruno-FF6F00?style=for-theGit](https://img.shields.io/badge/Git-F05032?style=for-the-badge&t&logoColor=white
-![Gatling](https://img.shields.io/badge/Gatling-FF5722?style=for-the-badgehttps://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ngoDB](https://img.shields.io/badge/MongoDB-47for-the-badge&logo=mongodb&logoColor=white
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white🎧 Personal Interests
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&=white
+![Play Framework](https://img.shields.io/badge/Play_Framework-64DD17?style=for-the-badge&logo=playframework&logoColor=white)
+gio/badge/Bruno-FF6F00?style=for-the-badge
+![Git](https://imgs.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+![Gatling](https://img.shields.io/badge/Gatling-FF5722?style=for-the-badge)
+tps://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker=white
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+ttps://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=
+### 🎧 Personal Interests
 - 🎛️ **DJing** – I love mixing tracks and exploring new sounds.
 - 🏀 **Basketball** – Whether it's playing or watching, I'm always up for a game.
 
@@ -25,17 +30,19 @@ I'm a backend developer specializing in building robust **API services** and **m
 
 ### 🌆 My GitHub Skyline
 Check out my 3D contribution graph:  
-https://gh-skyline.pages.dev
+[GitHub Skyline](https://dev
 
 ---
 
 ### 📊 GitHub Stats
-![Oltion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rue&theme=radical
+![Oltion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oltionfaz=radical
 
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oltionfaz---
+https://github-profile-trophy.vercel.app/?username=oltionfazliu&theme=radical
+
+---
 
 ### 📫 Let's Connect
 - 📧 Email: oltion_f2000@hotmail.com
