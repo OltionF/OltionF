@@ -68,13 +68,5 @@ I'm a backend developer specializing in building robust API services and microse
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OltionF&theme=radical&no-frame=true&no-bg=true" alt="Oltion's GitHub Trophies" />
-</p>
-
----
-
 ### Let's Connect
 - 📧 Email: oltion_f2000@hotmail.com
