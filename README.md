@@ -1,14 +1,5 @@
 <!-- Cyberpunk-inspired profile for OltionF -->
 
-<p align="center">
-  <!-- Optional: replace with header.jpg if you prefer a static image -->
-  <img src="https://cdn2.steamgriddb.com/hero_thumb/ce78d1da254c0843eb23951ae077ff5f.jpg" alt="Cyberpunk Neon Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OltionF/OltionF/main/assets/neon-divider.svg?v=1" alt="Neon Divider" width="80%" />
-</p>
-
 ## 👋 Hi, I'm Oltion
 ### 🚀 Backend Scala Developer | Consultant
 
@@ -41,15 +32,6 @@ I'm a backend developer specializing in building robust API services and microse
 - Building backend services using Play 3.0
 - Performance testing with Gatling
 - CI/CD automation with Jenkins
-
----
-
-### 📊 GitHub Stats
-
-<!-- Third-party image; may be rate-limited. Consider self-hosting if flaky. -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OltionF&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=7200" alt="Oltion's GitHub Stats" />
-</p>
 
 ---
 
